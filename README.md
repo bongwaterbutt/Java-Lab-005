@@ -59,7 +59,7 @@ String hello = "world";
 Determine the output of the program in [FlowOfExecution.java](src/FlowOfExecution.java) without using IntelliJ or another IDE.
 Understanding how to trace through code, understand logical operators, and following the flow of execution is critical to becoming a good programmer, and of course just a good problem solver.
 
-## Part 6: Triangle Formation Test
+## Part 6: Triangle Formation Test 
 
 **Objective:**
 Create a file named `src/Triangle.java` and write a program in it that determines if three given lengths can form a triangle. The test for triangle formation is as follows:
